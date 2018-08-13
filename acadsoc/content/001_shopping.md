@@ -8,7 +8,7 @@
 * take it in 穿进去。I'll Take in the close.
 * try it on 试穿.Try the shoe on。
 
-## sentence
+## Sentence
 Do you like shopping?  
 No, I don't.
 
@@ -21,8 +21,9 @@ What size are you?
 XL(small,medium,large,extra large), but I should try it on.
 
 Where's the fitting room?  
+It's over there. Around the corner.
 
-The water in supermarket is out of stock.
+The water in supermarket is **out of stock**.
 
 The clothes is too small to take in.
 
