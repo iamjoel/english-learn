@@ -5,7 +5,7 @@
 * loose 松的。 It looks a little loose for you.
 * stock 存货。 `out of stock` 没货了。
 * on sale 出售中.
-* take it in 穿进去。I'll Take in the close.
+* take it in 穿进去。I'll take in the close.
 * try it on 试穿.Try the shoe on。
 
 ## Sentence
