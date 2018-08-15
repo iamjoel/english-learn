@@ -1,4 +1,4 @@
-# Shopping
+# Buying Clothes
 ## Vocabulary
 * suits 西装，套装。
 * shirt 衬衫。 T-shirt。
