@@ -15,10 +15,11 @@
 Salesman: Good evening,can I help you?  
 Customer:Year! I'm looking for a gift for my girl friend.  
 Salesman: Do you have sth in mind?  
-Customer: I think a necklace would be perfect! Or I don't have anything in mind.  
+Customer: I think a necklace(项链) would be perfect! Or I don't have anything in mind.  
 Salesman: How about this one. It sales very well.  
 Customer: Sounds good. Could you please wrap up this please?  
 Saleman: Sure(Of course).  
+(Saleman is gift wrapping the necklace.)
 
 Do you think gift should be wrapped? Why or why not?  
 Yes. Because gifting wrap gift can make gift more beautiful and give sb a surprise.
