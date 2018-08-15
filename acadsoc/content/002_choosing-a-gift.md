@@ -2,7 +2,7 @@
 ## Vocabulary
 * look for 寻找
 * have sth in mind 想起
-* how about doing sth
+* how about doing sth. How about go shopping tomorrow.
 * gift wrap sth 礼品包装。 Gift wrap the chotolate with ribbon(丝带).
 * 宝石说法
   * ruby 红宝石
@@ -16,7 +16,7 @@ Salesman: Good evening,can I help you?
 Customer:Year! I'm looking for a gift for my girl friend.  
 Salesman: Do you have sth in mind?  
 Customer: I think a necklace(项链) would be perfect! Or I don't have anything in mind.  
-Salesman: How about this one. It sales very well.  
+Salesman: How about this one? It sales very well.  
 Customer: Sounds good. Could you please wrap up this please?  
 Saleman: Sure(Of course).  
 (Saleman is gift wrapping the necklace.)
