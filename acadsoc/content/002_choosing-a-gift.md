@@ -21,7 +21,7 @@ Customer: Sounds good. Could you please wrap up this please?
 Saleman: Sure(Of course).  
 
 Do you think gift should be wrapped? Why or why not?  
-Yes. Because gifting wrap gift can make gift more beautiful  
+Yes. Because gifting wrap gift can make gift more beautiful and give sb a surprise.
 No. It's useless. It's a water of paper and ribbon.
 
 What gift did you send in previous Valentine’s day?  
