@@ -3,7 +3,7 @@
   * Shopping 购物
     * [Buying Clothes](content/01_shopping/01_buying-clothes.md)
     * [Choosing a Gift](content/01_shopping/02_choosing-a-gift.md)
-    * In the Supermarket
+    * [In the Supermarket](content/01_shopping/03_in-the-supermarket.md)
     * Shopping for a TV
     * Buying a Smartphone
     * Bargaining

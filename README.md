@@ -1,4 +1,6 @@
 # 英语学习
+> English is a universal language.By Learning it, can communicate with more people.
+
 * [阿卡索学习总结](acadsoc)
 
 ## 将单词和句子按语境进行分类
