@@ -5,7 +5,7 @@
     * [Choosing a Gift](content/01_shopping/02_choosing-a-gift.md)
     * [In the Supermarket](content/01_shopping/03_in-the-supermarket.md)
     * [Shopping for a TV](content/01_shopping/04_shopping-for-a-tv.md)
-    * Buying a Smartphone
+    * [Buying a Smartphone](content/01_shopping/05_buying-a-smartphone.md)
     * Bargaining
     * Checking out
     * Return & Refund

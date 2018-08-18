@@ -3,7 +3,7 @@
 * warranty |ˈwɒrənti| 保修期。 The computer has a three-year warranty. How long is the warranty for this TV? We offer free repair, if it's still under warrenty.
 * best-seller 畅销品. The Book is a best-seller.
 * offer . She offer me a piece of bread.
-* delivery (n.)运送。 The supermarket offer free delivery.
+* delivery (n.)运送。 The supermarket offers free delivery.
   * deliver (v). The letter was deliveried yesterday. 
 * appliance 电器
   * air condition 空调。
