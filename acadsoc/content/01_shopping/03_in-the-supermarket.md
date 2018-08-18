@@ -25,5 +25,5 @@ Saleswoman: It's in aisle 10.
 Around holidays like Mid-autumn festival,Christmas, Black Friday and woman's day things are always promted in the supermarket.  
 
 Have you ever bought things in a online supermarket? Do you like it?  
-Yes. It's convenient and cheap to buy things online, and things would be delivered home. And it's also have more choise.
+Yes. It's convenient and cheap to buy things online, and things would be delivered home. And it's also have more choise and save time.
 
