@@ -1,7 +1,7 @@
 # Buying a Smartphone
 ## Vocabulary
 * top-of-the-line 最高标准的. Iphone is a top-of-the-line mobilephone.
-* have access to 有用...的权利. You'll have access to this building with the card.
+* have access to 有用...的权利 . You'll have access to this building with the card.
 * out of credit (手机)没话费，(帐号)没存款.
   * credit card 信用卡
 * top up 给...加满；冲值. Let me top up your glass.
@@ -14,6 +14,10 @@
 * charger 充电器
 * portable power bank 移动电源
 * selfie stick 自拍杆
+
+## Miss pronunciation Vocabulary
+* access |ˈækses| cc -> k
+* contact |ˈkɒntækt|  con|tact
 
 ## Sentence
 (John is buying a new smartphone for himself)  
