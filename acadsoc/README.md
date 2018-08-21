@@ -7,8 +7,8 @@
     * [Shopping for a TV](content/01_shopping/04_shopping-for-a-tv.md)
     * [Buying a Smartphone](content/01_shopping/05_buying-a-smartphone.md)
     * [Bargaining](content/01_shopping/06_bargaining.md)
-    * Checking out
-    * Return & Refund
+    * [Checking out](content/01_shopping/07_checking-out.md)
+    * [Return & Refund](content/01_shopping/08_return_and_refund.md)
     * Online Shopping
     * Revision One
     * Archievement Test One
