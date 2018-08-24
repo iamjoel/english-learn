@@ -23,4 +23,6 @@
 
 ## 资源
 * [剑桥字典](https://dictionary.cambridge.org)
+* 新闻网站
+  * [words without borders](https://www.wordswithoutborders.org/) : The online maginze for international Literature.
 * [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
