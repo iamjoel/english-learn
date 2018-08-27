@@ -18,6 +18,8 @@
 * racket 吵闹声;骗局;非法勾当
 * disarray 杂乱的
 * suck 吸;吮
+* I know. =>  You already know it before I even tell you.
+* I understand/I see. => You are able to get what I mean.  Can you get me? Yes, I get it.
 
 ## 来源
 * 沪江开心词场
