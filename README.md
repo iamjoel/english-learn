@@ -15,6 +15,8 @@
 
 推荐本书 《1368个单词就够了》。
 
+我掌握的词汇量: TODO。
+
 ### 将单词和句子按语境进行分类
 * 用餐
 * 交通工具
@@ -22,7 +24,9 @@
   * 飞机上
 * 编程语言
 
-《韦氏小绿书》 也是语境进行分类。
+推荐  
+* [English Club 的英语分类](https://www.englishclub.com/vocabulary/)
+* 《韦氏小绿书》 也是语境进行分类。
 
 ### 如何加深对单词的理解
 * 理解单词的时候，有该单词对应的图片（视觉）。像小孩子认东西的卡片那样。
@@ -44,13 +48,22 @@
 ## 我的学习总结
 * [阿卡索学习总结](acadsoc)
 
+
 ## 学习资源
-* 《跟着美剧《老友记》学英语》
-* [看美剧学英语](https://zhuanlan.zhihu.com/c_153515338)
-* [剑桥字典](https://dictionary.cambridge.org)
-* [webster字典](https://www.merriam-webster.com/)
+* 指南
+  * [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+* [learning english](https://github.com/eugenerzhavtsev/learning-english)
+* 剧
+  * 《跟着美剧《老友记》学英语》 微信阅读上有。
+  * [看美剧学英语](https://zhuanlan.zhihu.com/c_153515338)
+  * [老友记与口语](https://zhuanlan.zhihu.com/Friends)
 * 新闻网站
   * [words without borders](https://www.wordswithoutborders.org/) : The online maginze for international Literature.
-* [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 * 少儿
   * 《Word world》: Word World is a show that is designed to help children to learn their letters. The entire animated world of Word World is made out of letters and the characters work through challenges to form words.
+
+## 工具
+* 字典
+  * [剑桥字典](https://dictionary.cambridge.org)
+  * [webster字典](https://www.merriam-webster.com/)
+* 薄荷阅读的公众号可测词汇量。
