@@ -1,8 +1,8 @@
-#, 具体名词
+# 具体名词
 ## 有关物的名词
 ### 时间
 time, date  
-morning, noon(中文),afternoon, evening, day, night  
+morning, noon(中午),afternoon, evening, day, night  
 today, tonight, tomorrow, yesterday, the day after tomorrow, the day before yesterday  
 moment, second, minute, hour  
 week,weekday, weekend monday,thusday,wesday,thursday,friday,satuday,sunday  
