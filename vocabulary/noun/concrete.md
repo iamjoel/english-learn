@@ -27,7 +27,8 @@ river, sea, lake,
 field, forest, stone, star
 
 ## 植物
-plant, grass, tree, crop
+plant, 
+grass, flower, leaf, tree, crop
 
 ## 动物
 animal,  
@@ -35,7 +36,7 @@ bird, chicken, cat, dog, horse, rabbit, bull, cow, pig,fish, sheep, monkey, elep
 tiger, lion, bear,  snake, reptile
 
 ## 昆虫
-insect
+insect,  
 bee,fly(苍蝇), butterfly, dragonfly, ant  
 spider（蜘蛛不是昆虫，先放在这）
 
@@ -97,7 +98,7 @@ furniture,
 bed, chair, desk, table, seat, couch 
 
 ## 服装
-clothes
+clothes,  
 shirt, cap, hat, coat, dress, pant, uniform, suits, underwear,  
 pocket, jeans, botton, zip, sock, shoe
 
