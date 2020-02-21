@@ -8,6 +8,6 @@ What is it?
 It's a car.
 
 ## What do you see? I see ...
-I see a cat.  
+What do you see?  
 I see a dog.
 
