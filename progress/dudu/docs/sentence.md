@@ -17,3 +17,9 @@ I see a dog.
 ## It's your turn.
 轮到你了。
 
+## Do you like ...?
+Do you like blue?
+Yes, I do.
+
+Do you like green?
+No, I don't.
