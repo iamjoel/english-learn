@@ -10,6 +10,10 @@ Hello, I'm Dudu. What's your name?
 What is it?  
 It's a car.
 
+## What color is it?
+What color is it?  
+It's blue.
+
 ## What do you see? I see ...
 What do you see?  
 I see a dog.

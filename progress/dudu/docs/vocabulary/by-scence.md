@@ -6,6 +6,9 @@
 * dog
 * duck
 * dinosaur
+* fish
+* goat
+* gorilla
 * spider
 
 ## 水果
@@ -14,3 +17,5 @@
 ## 颜色
 * blue
 * green
+* red
+* yellow

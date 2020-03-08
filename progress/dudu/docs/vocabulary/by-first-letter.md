@@ -14,6 +14,7 @@
 * cow
 * cook
 * car
+* crayon 蜡笔
 
 ## D
 * dog
@@ -25,9 +26,20 @@
 * firefighter 消防员
 * fish
 * feather 羽毛
+* farmer
+* family
 
 ## G
 * green
+* goat 山羊
+* gorilla 大猩猩
+* gate 门
+
+## H
+* hat
+
+## R
+* red
 
 ## S
 * spider
