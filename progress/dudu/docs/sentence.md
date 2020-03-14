@@ -18,6 +18,9 @@ It's blue.
 What do you see?  
 I see a dog.
 
+## Can you say ...?
+Can you say yellow?
+
 ## It's your turn.
 轮到你了。
 
