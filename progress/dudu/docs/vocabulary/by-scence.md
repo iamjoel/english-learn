@@ -23,3 +23,8 @@
 ## 数字
 * one, two, three, four, five
 * count
+
+## 家庭
+* family
+* mom, dad, grandma, grandpa
+

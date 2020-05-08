@@ -6,6 +6,9 @@ I'm Dudu. My name is Dudu.
 ## Hello|Hi
 Hello, I'm Dudu. What's your name?
 
+## See you next time
+See you next time.
+
 ## What is it? It's ...
 What is it?  
 It's a car.
@@ -30,3 +33,7 @@ Yes, I do.
 
 Do you like green?
 No, I don't.
+
+## Who is this?
+Who is this?  
+This is my dad.
